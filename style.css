@@ -1,0 +1,34 @@
+/* Basic styling - customize to your liking */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+    color: #333;
+}
+
+.navbar {
+    /* ... (navbar styles) */
+}
+
+.bg-light {
+    background-color: #f8f9fa;
+}
+
+.py-5 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.card {
+    /* ... (card styles) */
+}
+
+.progress-bar {
+    /* ... (progress bar styles) */
+}
+
+/* ... (Add more styles as needed) */
